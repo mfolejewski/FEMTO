@@ -1,0 +1,38 @@
+Altium Designer Pick and Place Locations
+E:\RP2040_SH\6\4-Femto\Project Outputs for Femto_v1\Pick Place for Femto_v1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.07.22
+Time:       01:50
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"R33","2k","BottomLayer","RES_0402_R","5.4000","10.9500","270"
+"LED26","Red","BottomLayer","LED_0402_R","3.9500","10.5000","180"
+"X1","12.000MHz","BottomLayer","OSC_2520_4P_250X200H50_R","10.0500","2.7500","360"
+"U2","W25Q16JV","BottomLayer","ICC_USON8_200X300X55P50_EP","6.1500","5.7500","180"
+"U1","RP2040","TopLayer","ICC_QFN56_700X700X90_P40_EP_RP2040","6.1000","5.8500","0"
+"R7","100R","BottomLayer","RES_0402_R","3.2000","8.8500","360"
+"R6","1k","BottomLayer","RES_0402_R","9.6500","4.7000","180"
+"R5","1k","BottomLayer","RES_0402_R","1.4000","1.6500","360"
+"R4","10k","BottomLayer","RES_0402_R","3.3000","1.3500","360"
+"R3","10k","BottomLayer","RES_0402_R","10.5500","7.3000","270"
+"C17","2.2uF","BottomLayer","CAP_0402_R","1.2000","9.2500","360"
+"C16","2.2uF","BottomLayer","CAP_0402_R","4.6500","9.1000","270"
+"C15","2.2uF","BottomLayer","CAP_0402_R","2.1000","7.4500","360"
+"C14","100nF","BottomLayer","CAP_0402_R","9.1000","7.9000","180"
+"C13","100nF","BottomLayer","CAP_0402_R","2.1000","5.5500","360"
+"C12","100nF","BottomLayer","CAP_0402_R","2.1000","6.5000","360"
+"C11","100nF","BottomLayer","CAP_0402_R","4.2000","2.3500","180"
+"C10","100nF","BottomLayer","CAP_0402_R","6.9500","1.9500","90"
+"C9","100nF","BottomLayer","CAP_0402_R","2.5000","10.9500","270"
+"C8","100nF","BottomLayer","CAP_0402_R","9.5500","6.5000","270"
+"C7","100nF","BottomLayer","CAP_0402_R","7.8500","8.8000","180"
+"C6","15pF","BottomLayer","CAP_0402_R","9.6000","0.8500","0"
+"C5","15pF","BottomLayer","CAP_0402_R","7.8500","1.9500","90"
+"C4","2.2uF","BottomLayer","CAP_0402_R","7.8500","9.8000","180"
+"C3","100nF","BottomLayer","CAP_0402_R","6.4000","9.2500","270"
