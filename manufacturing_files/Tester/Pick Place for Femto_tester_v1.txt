@@ -1,0 +1,87 @@
+Altium Designer Pick and Place Locations
+E:\RP2040_SH\6\5-Femto_tester\Project Outputs for Femto_tester_v1\Pick Place for Femto_tester_v1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01.07.22
+Time:       01:44
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer    Footprint                  Center-X(mm) Center-Y(mm) Rotation 
+MOD1       "FEMTO V1 Module" TopLayer MOD_FEMTO_V1_120X120_P100  20.5000      20.0000      270      
+J1         U262-161N-4BVC11  TopLayer CON_XKB_U262-161N-4BVC11   4.9125       18.9999      270      
+R_GP29     2k                TopLayer RES_0402_R                 33.4500      5.5000       180      
+R_GP28     2k                TopLayer RES_0402_R                 33.4500      6.5000       180      
+R_GP27     2k                TopLayer RES_0402_R                 33.4500      7.5000       180      
+R_GP26     2k                TopLayer RES_0402_R                 33.4500      8.5000       180      
+R_GP25     2k                TopLayer RES_0402_R                 33.4500      9.5000       180      
+R_GP24     2k                TopLayer RES_0402_R                 33.4500      10.5000      180      
+R_GP23     2k                TopLayer RES_0402_R                 33.4500      11.5000      180      
+R_GP22     2k                TopLayer RES_0402_R                 33.4500      12.5000      180      
+R_GP21     2k                TopLayer RES_0402_R                 33.4500      13.5000      180      
+R_GP20     2k                TopLayer RES_0402_R                 33.4500      14.5000      180      
+R_GP19     2k                TopLayer RES_0402_R                 33.4500      15.5000      180      
+R_GP18     2k                TopLayer RES_0402_R                 33.4500      16.5000      180      
+R_GP17     2k                TopLayer RES_0402_R                 33.4500      17.5000      180      
+R_GP16     2k                TopLayer RES_0402_R                 33.4500      18.5000      180      
+R_GP15     2k                TopLayer RES_0402_R                 33.4500      19.5000      180      
+R_GP14     2k                TopLayer RES_0402_R                 33.4500      20.5000      180      
+R_GP13     2k                TopLayer RES_0402_R                 33.4500      21.5000      180      
+R_GP12     2k                TopLayer RES_0402_R                 33.4500      22.5000      180      
+R_GP11     2k                TopLayer RES_0402_R                 33.4500      23.5000      180      
+R_GP10     2k                TopLayer RES_0402_R                 33.4500      24.5000      180      
+R_GP9      2k                TopLayer RES_0402_R                 33.4500      25.5000      180      
+R_GP8      2k                TopLayer RES_0402_R                 33.4500      26.5000      180      
+R_GP7      2k                TopLayer RES_0402_R                 33.4500      27.5000      180      
+R_GP6      2k                TopLayer RES_0402_R                 33.4500      28.5000      180      
+R_GP5      2k                TopLayer RES_0402_R                 33.4500      29.5000      180      
+R_GP4      2k                TopLayer RES_0402_R                 33.4500      30.5000      180      
+R_GP3      2k                TopLayer RES_0402_R                 33.4500      31.5000      180      
+R_GP2      2k                TopLayer RES_0402_R                 33.4500      32.5000      180      
+R_GP1      2k                TopLayer RES_0402_R                 33.4500      33.5000      180      
+R_GP0      2k                TopLayer RES_0402_R                 33.4500      34.5000      180      
+R5         5.1k              TopLayer RES_0402_R                 9.3000       20.2500      180      
+R4         5.1k              TopLayer RES_0402_R                 9.3000       17.1500      180      
+R3         27R               TopLayer RES_0402_R                 12.4000      18.5000      180      
+R2         27R               TopLayer RES_0402_R                 12.4000      19.5000      180      
+R1         2k                TopLayer RES_0402_R                 9.8500       24.8500      90       
+C3         47uF              TopLayer CAP_0603_R                 2.6000       26.0000      360      
+C2         2.2uF             TopLayer CAP_0402_R                 8.8500       26.8000      90       
+C1         2.2uF             TopLayer CAP_0402_R                 2.9000       27.2500      360      
+U1         NCP114ASN330T1G   TopLayer ICC_TSOT-5_290X160H110_P95 6.3000       26.3000      270      
+SW2        "TACT Switch"     TopLayer SWI_CKS_PTS525             7.0000       33.0000      360      
+SW1        "TACT Switch"     TopLayer SWI_CKS_PTS525             17.0000      33.0000      360      
+LED1       Red               TopLayer LED_0402_R                 9.8500       26.8000      90       
+LED_GP29   Red               TopLayer LED_0402_R                 31.0000      5.5000       180      
+LED_GP28   Red               TopLayer LED_0402_R                 31.0000      6.5000       180      
+LED_GP27   Red               TopLayer LED_0402_R                 31.0000      7.5000       180      
+LED_GP26   Red               TopLayer LED_0402_R                 31.0000      8.5000       180      
+LED_GP25   Red               TopLayer LED_0402_R                 31.0000      9.5000       180      
+LED_GP24   Red               TopLayer LED_0402_R                 31.0000      10.5000      180      
+LED_GP23   Red               TopLayer LED_0402_R                 31.0000      11.5000      180      
+LED_GP22   Red               TopLayer LED_0402_R                 31.0000      12.5000      180      
+LED_GP21   Red               TopLayer LED_0402_R                 31.0000      13.5000      180      
+LED_GP20   Red               TopLayer LED_0402_R                 31.0000      14.5000      180      
+LED_GP19   Red               TopLayer LED_0402_R                 31.0000      15.5000      180      
+LED_GP18   Red               TopLayer LED_0402_R                 31.0000      16.5000      180      
+LED_GP17   Red               TopLayer LED_0402_R                 31.0000      17.5000      180      
+LED_GP16   Red               TopLayer LED_0402_R                 31.0000      18.5000      180      
+LED_GP15   Red               TopLayer LED_0402_R                 31.0000      19.5000      180      
+LED_GP14   Red               TopLayer LED_0402_R                 31.0000      20.5000      180      
+LED_GP13   Red               TopLayer LED_0402_R                 31.0000      21.5000      180      
+LED_GP12   Red               TopLayer LED_0402_R                 31.0000      22.5000      180      
+LED_GP11   Red               TopLayer LED_0402_R                 31.0000      23.5000      180      
+LED_GP10   Red               TopLayer LED_0402_R                 31.0000      24.5000      180      
+LED_GP9    Red               TopLayer LED_0402_R                 31.0000      25.5000      180      
+LED_GP8    Red               TopLayer LED_0402_R                 31.0000      26.5000      180      
+LED_GP7    Red               TopLayer LED_0402_R                 31.0000      27.5000      180      
+LED_GP6    Red               TopLayer LED_0402_R                 31.0000      28.5000      180      
+LED_GP5    Red               TopLayer LED_0402_R                 31.0000      29.5000      180      
+LED_GP4    Red               TopLayer LED_0402_R                 31.0000      30.5000      180      
+LED_GP3    Red               TopLayer LED_0402_R                 31.0000      31.5000      180      
+LED_GP2    Red               TopLayer LED_0402_R                 31.0000      32.5000      180      
+LED_GP1    Red               TopLayer LED_0402_R                 31.0000      33.5000      180      
+LED_GP0    Red               TopLayer LED_0402_R                 31.0000      34.5000      180      
