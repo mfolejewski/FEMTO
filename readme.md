@@ -1,10 +1,10 @@
 Femto - RP2040 12x12mm PCB module
 
 Here you can find:
-- Photos: a few pictures of the assembled PCB boards
-- Python: simple script do test Femto module using Femto Tester board (use Thonny IDE)
-- manufacturing_files: all the production files for ordering PCB and assembly at JLCPCB (Gerber files, Pick & Place, BOM, etc.)
-- source_files: source files in Kicad and Altium Designer format
+- \Photos: a few pictures of the assembled PCB boards
+- \Python: simple script do test Femto module using Femto Tester board (use Thonny IDE)
+- \manufacturing_files: all the production files for ordering PCB and assembly at JLCPCB (Gerber files, Pick & Place, BOM, etc.)
+- \source_files: source files in Kicad and Altium Designer format
 
 The project consists of 3 parts:
 - Module (mainboard)
