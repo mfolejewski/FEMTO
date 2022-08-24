@@ -6,7 +6,7 @@ Here you can find:
 - \manufacturing_files: all the production files for ordering PCB and assembly at JLCPCB (Gerber files, Pick & Place, BOM, etc.)
 - \source_files: source files in Kicad and Altium Designer format
 
-The main goal and reason to create this project was attempt to design smallest as possible, and fully functional RP2040 module. Please note, that RP2040 MCU nas 7x7mm package, and Femto module has only a bit more, 12x12mm. In comparision, closer competitiors, such as Raspberry Pi Pico or Stamp Solder RP2040 Party have appropriately 51x21mm and 25x25mm.
+The main goal and reason to create this project was attempt to design as smallest as possible, and fully functional RP2040 module. Please note, that RP2040 MCU nas 7x7mm package, and Femto module has only a bit more, 12x12mm. In comparision, closer competitiors, such as Raspberry Pi Pico or RP2040 Stamp (Solder Party) have appropriately 51x21mm and 25x25mm.
 
 The project consists of 3 parts:
 - Module (mainboard)
