@@ -15,6 +15,8 @@ The project consists of 3 parts:
 
 Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware Licence).
 
+![Screenshot](oshw_facts.png)
+
 Raspberry Pico and Femto Module v1:
 ![Screenshot](Photos/Femto_Module_Raspberry_Pico_01.png)
 
