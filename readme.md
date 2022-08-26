@@ -13,7 +13,7 @@ The project consists of 3 parts:
 - frame (solder frame)
 - tester (testbench, only for functional verification)
 
-Project published as Open Source Hardware (OSHW).
+Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardware Licence).
 
 Raspberry Pico and Femto Module v1:
 ![Screenshot](Photos/Femto_Module_Raspberry_Pico_01.png)
