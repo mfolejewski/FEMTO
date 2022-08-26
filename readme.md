@@ -1,4 +1,4 @@
-# Femto - Raspberry Pi RP2040 12x12mm PCB module
+# Femto - RP2040 12x12mm PCB module
 
 ## Description
 
@@ -31,9 +31,13 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 
 ## Press release:
 http://hackster.io/news/mirek-folejewski-s-femto-module-is-a-full-feature-raspberry-pi-rp2040-in-the-smallest-footprint-yet-d75727c4adbf.amp
+
 https://cnx-software.com/2022/08/22/femto-tiny-raspberry-pi-rp2040-module/
+
 https://blingeach.com/mirek-folejewskis-femto-module-is-a-full-function-raspberry-pi-rp2040-within-the-smallest-footprint-but/
+
 https://tecnohub.org/2022/08/a-full-featured-raspberry-pi-rp2040-in.html?m=1
+
 https://hackaday.io/project/186871-femto-module-v1
 
 ## Photos
