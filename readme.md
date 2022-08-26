@@ -1,4 +1,12 @@
-Femto - RP2040 12x12mm PCB module
+Femto - Raspberry Pi RP2040 12x12mm PCB module
+
+Femto is a ultra compact Raspberry Pi RP2040 module, which has features, as following:
+- small footprint 12x12mm,
+- all 30 GPIO pins connected,
+- stamp form factor,
+- 4-layer PCB board,
+- onboard: QSPI Flash (USON8 package), 12MHz oscillator, PWR LED,
+- fully open source project (OSHW).
 
 Here you can find:
 - \Photos: a few pictures of the assembled PCB boards
