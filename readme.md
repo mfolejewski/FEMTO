@@ -32,9 +32,13 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 ## Press release:
 
 [hackster.io](http://hackster.io/news/mirek-folejewski-s-femto-module-is-a-full-feature-raspberry-pi-rp2040-in-the-smallest-footprint-yet-d75727c4adbf.amp)
+
 [cnx-software.com](https://cnx-software.com/2022/08/22/femto-tiny-raspberry-pi-rp2040-module/)
+
 [blingeach.com](https://blingeach.com/mirek-folejewskis-femto-module-is-a-full-function-raspberry-pi-rp2040-within-the-smallest-footprint-but/)
+
 [tecnohub.org](https://tecnohub.org/2022/08/a-full-featured-raspberry-pi-rp2040-in.html?m=1)
+
 [hackaday.io](https://hackaday.io/project/186871-femto-module-v1)
 
 ## Photos
