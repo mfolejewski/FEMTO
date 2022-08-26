@@ -39,6 +39,8 @@ Project published as Open Source Hardware (OSHW) under CERN OHL v1.2 (Open Hardw
 
 [tecnohub.org](https://tecnohub.org/2022/08/a-full-featured-raspberry-pi-rp2040-in.html?m=1)
 
+[theperfectech.com](https://theperfectech.com/mirek-folejewskis-femto-module-is-a-full-characteristic-raspberry-pi-rp2040-within-the-smallest-footprint-but/)
+
 [hackaday.io](https://hackaday.io/project/186871-femto-module-v1)
 
 ## Photos
