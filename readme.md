@@ -58,6 +58,7 @@ Raspberry Pico and Femto Module v1:
 
 Femto Module:
 ![Screenshot](Photos/Femto_module_06.png)
+![Screenshot](Photos/Femto_module_05.png)
 
 Femto Frame:
 ![Screenshot](Photos/Femto_frame_01.png)
