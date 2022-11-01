@@ -19,7 +19,7 @@ Here you can find:
 The main goal and reason to create this project was attempt to design as smallest as possible, and fully functional RP2040 module. Please note, that RP2040 MCU nas 7x7mm package, and Femto module has only a bit more, 12x12mm. In comparision, closer competitiors, such as Raspberry Pi Pico or RP2040 Stamp (Solder Party) have appropriately 51x21mm and 25x25mm.
 
 The project consists of 3 parts:
-- Module (mainboard)has now officially been certified as open source hardware by the Open Source Hardware Association
+- Module (mainboard)
 - frame (solder frame)
 - tester (testbench, only for functional verification)
 
